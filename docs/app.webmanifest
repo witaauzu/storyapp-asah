@@ -1,0 +1,27 @@
+{
+  "id": "/#/",
+  "start_url": "/#/",
+  "scope": "/",
+  "name": "StoryApp - Berbagi Cerita",
+  "short_name": "StoryApp",
+  "description": "StoryApp adalah aplikasi berbagi cerita berbasis web yang memungkinkan pengguna untuk membagikan pengalaman, cerita, dan lokasi mereka secara online. Aplikasi ini dirancang sebagai Progressive Web App agar dapat diinstal dan diakses secara offline.",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#6f909b",
+   "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/home.png",
+      "sizes": "2680x2245",
+      "type": "image/png",
+      "label": "Halaman Beranda StoryApp"
+    }
+  ]
+}
